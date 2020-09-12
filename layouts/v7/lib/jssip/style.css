@@ -1,0 +1,105 @@
+.callingCtl
+{
+    width: auto;
+    margin: 0 auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    background-color: rgba(0,0,0,0.5);
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    display:flex;
+}
+.callingCtlBtn 
+{
+    font-size: large;
+    vertical-align: middle;
+    margin: 0px 25px;
+    background: transparent;
+    border-style: hidden;
+    height: 50px;
+}
+.modal-body
+{
+    padding: 0px 10px;
+    background:  #afafaf;
+}
+.modal-body
+{
+    padding: 0px 10px;
+    background:  #afafaf;
+}
+.modal-content
+{
+}
+.modal-dialog
+{
+  margin: auto;!important;
+  padding: 10px 50px !important;
+  width: auto !important;
+}
+.call-body-label
+{
+    font-size: x-large;
+    margin: auto;
+    display: inline-block;
+    max-width: 100%;
+    font-weight: 1000;
+}
+.timer-label {
+    font-size: smaller;
+    text-align: center;
+    font-style: italic;
+    font-family: auto;
+    display: block;
+    max-width: 100%;
+    font-weight: 700;
+    color: darkgoldenrod;
+    }
+  .call-body
+  {
+    display: flex;
+  }
+	.field-model
+  {
+		font-size: x-large;;
+        !important;
+	}
+	.field-label
+	{
+    white-space: nowrap;
+    overflow: inherit;
+		padding-left: 10px;
+		font-weight: bold;
+    font-size : larger;
+	}
+    
+	.field-value
+	{
+    font-size : larger;
+    text-align : center;
+	}
+    
+ .fieldValue .value {
+    max-width: 100%;!important;
+    text-align: center;!important;
+ }
+.min-oubound{
+    height: 35px;
+    bottom: 1px;
+    left: 1px;
+    position: fixed;
+    right: 1px;
+    z-index: 9999;
+}
+
+    

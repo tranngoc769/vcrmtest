@@ -1,0 +1,28 @@
+Traced on 2020-09-12 09:03:47
+FileAccessForInclusion - 
+/home/tranngoc/Desktop/vtigercrm/include/utils/CommonUtils.php::checkFileAccessForInclusion::388<br>
+/home/tranngoc/Desktop/vtigercrm/includes/Loader.php::checkFileAccessForInclusion::65<br>
+/home/tranngoc/Desktop/vtigercrm/includes/Loader.php::includeOnce::191<br>
+/home/tranngoc/Desktop/vtigercrm/includes/main/WebUI.php::vimport::15<br>
+/home/tranngoc/Desktop/vtigercrm/index.php::include_once::17<br>
+Traced on 2020-09-12 09:04:44
+FileAccessForInclusion - 
+/home/tranngoc/Desktop/vtigercrm/include/utils/CommonUtils.php::checkFileAccessForInclusion::388<br>
+/home/tranngoc/Desktop/vtigercrm/includes/Loader.php::checkFileAccessForInclusion::65<br>
+/home/tranngoc/Desktop/vtigercrm/includes/Loader.php::includeOnce::191<br>
+/home/tranngoc/Desktop/vtigercrm/includes/main/WebUI.php::vimport::15<br>
+/home/tranngoc/Desktop/vtigercrm/index.php::include_once::17<br>
+Traced on 2020-09-12 09:05:06
+FileAccessForInclusion - 
+/home/tranngoc/Desktop/vtigercrm/include/utils/CommonUtils.php::checkFileAccessForInclusion::388<br>
+/home/tranngoc/Desktop/vtigercrm/includes/Loader.php::checkFileAccessForInclusion::65<br>
+/home/tranngoc/Desktop/vtigercrm/includes/Loader.php::includeOnce::191<br>
+/home/tranngoc/Desktop/vtigercrm/includes/main/WebUI.php::vimport::15<br>
+/home/tranngoc/Desktop/vtigercrm/index.php::include_once::17<br>
+Traced on 2020-09-12 09:05:09
+FileAccessForInclusion - 
+/home/tranngoc/Desktop/vtigercrm/include/utils/CommonUtils.php::checkFileAccessForInclusion::388<br>
+/home/tranngoc/Desktop/vtigercrm/includes/Loader.php::checkFileAccessForInclusion::65<br>
+/home/tranngoc/Desktop/vtigercrm/includes/Loader.php::includeOnce::191<br>
+/home/tranngoc/Desktop/vtigercrm/includes/main/WebUI.php::vimport::15<br>
+/home/tranngoc/Desktop/vtigercrm/index.php::include_once::17<br>
